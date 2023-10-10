@@ -1,5 +1,7 @@
 # Bullet-Game
 Bullet game is a game for 2 people created in C++ and SGG library. Each player can drop bullets to the other. The goal is to avoid the bullets and drop them back. The person who survives is the winner.
+
+
   P.S Be careful, some monsters appear randomly that can cost your life bar.
 
 ![Capture1](https://github.com/konstantinosKatsamis/Bullet-Game/assets/75335809/1911a554-deee-49f8-b922-ecb3b93cdb49)
